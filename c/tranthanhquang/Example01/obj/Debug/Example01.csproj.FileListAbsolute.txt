@@ -1,0 +1,42 @@
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe.config
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.pdb
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form1.resources
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.exe
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.pdb
+D:\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form2.resources
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe.config
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.exe
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.pdb
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.pdb
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form2.resources
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\CA MAP DAI DUONG\Downloads\HuynhDangKhoa2120110291\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe.config
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.exe
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.pdb
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.exe
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\bin\Debug\Example01.pdb
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form1.resources
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Form2.resources
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\baitapC#\HuynhDangKhoa2120110291\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\C#\c\tranthanhquang\Example01\bin\Debug\Example01.exe.config
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.exe
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.pdb
+D:\C#\c\tranthanhquang\Example01\bin\Debug\Example01.exe
+D:\C#\c\tranthanhquang\Example01\bin\Debug\Example01.pdb
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.Form1.resources
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.Form2.resources
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.Form3.resources
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\C#\c\tranthanhquang\Example01\obj\Debug\Example01.Form4.resources

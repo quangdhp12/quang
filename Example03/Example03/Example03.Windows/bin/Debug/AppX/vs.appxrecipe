@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UUUE2ME</Machine>
+    <WindowsUser>quang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>386a74c4-65df-4466-beb4-7321b1d0bcd3</PackageIdentityName>
+    <IntermediateOutputPath>D:\C#\Example03\Example03\Example03.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C89C90ECDCE0B30FFDCB478EC8E1C2AEDF15760071BE322CC3318D359FACE096</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-07-15T05:53:43.587</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\Example03.Windows.exe">
+      <PackagePath>Example03.Windows.exe</PackagePath>
+      <Modified>2023-07-15T05:53:43.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2023-07-15T05:53:42.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2023-07-15T05:53:42.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\Example03.Windows.xr.xml">
+      <PackagePath>Example03.Windows.xr.xml</PackagePath>
+      <Modified>2023-07-15T05:53:42.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#\Example03\Example03\Example03.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-07-15T05:53:43.429</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

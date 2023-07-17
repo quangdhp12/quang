@@ -1,0 +1,1 @@
+D:\C#\Example03\Example03\Example03.Windows\Example03.Windows.csproj;neutral
